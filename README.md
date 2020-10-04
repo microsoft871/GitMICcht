@@ -2,5 +2,5 @@
 This is Description
 #features
 Great use of header tags.
-Pragraphing is incomplete.
+Paragraphing is incomplete.
 Nice footer tag.
